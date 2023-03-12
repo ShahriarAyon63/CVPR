@@ -1,0 +1,22 @@
+Assignment 1:
+
+Discussion:
+
+#The first necessary modules were loaded, including matplotlib.pyplot, random, cv2, tqdm, and os.
+#Categories were shown.
+#After that, the classifications were introduced to the training dictionary.
+#The images were inserted after the train data was generated.
+#Then the data was shuffled and the first 50 images were displayed.
+#The data was split into train and test data.
+#then the knn function was created and the nearest neighbors were found.
+#The accuracy was calculated.
+#Then the accuracy was plotted.
+
+
+Assignment 2:
+
+Discussion:
+
+#The x values were specified after importing the libraries.
+#The functions were defined and the graphs were plotted
+#The graphs were plotted using the plot_graph function
